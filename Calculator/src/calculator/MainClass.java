@@ -4,7 +4,7 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Enter numbers from 1 to 10 ");
+		System.out.println("Введите числа от 1 до 10 и операцию (+,-,*,/) разделяя их пробелом";
 		System.out.println();
 		try {
 		Input.input(); // input numbers
